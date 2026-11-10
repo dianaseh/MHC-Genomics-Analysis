@@ -80,7 +80,3 @@ The project focuses on alignment quality and coverage rather than sample-specifi
 ## Data availability
 
 The original course-provided BAM files are no longer available to me and are not included in this repository. The notebook retains its saved outputs for viewing; rerunning the analysis requires the original input files.
-
-## What I learned
-
-This project gave me practical experience working with genomic coordinates, alignment files, reference annotations, and comparative visualizations. It also helped me distinguish mapping confidence from coverage completeness and understand why locus-level inspection matters when analyzing complex genomic regions.
